@@ -7,6 +7,10 @@
     <groupId>com.futurebytedance</groupId>
     <artifactId>Maven-Study</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>maven-a</module>
+        <module>maven-b</module>
+    </modules>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
