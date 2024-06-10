@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
 <!--    </parent>-->
 
-    <artifactId>maven-b</artifactId>
+    <artifactId>maven-c</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -21,15 +21,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
-            <version>1.2.8</version>
-        </dependency>
-
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-            <version>4.0.1</version>
-            <scope>provided</scope>
+            <version>1.2.7</version>
         </dependency>
     </dependencies>
-
 </project>

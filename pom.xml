@@ -10,6 +10,7 @@
     <modules>
         <module>maven-a</module>
         <module>maven-b</module>
+        <module>maven-c</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
 
