@@ -19,11 +19,11 @@
     </properties>
 
     <dependencies>
-        <!--        <dependency>-->
-        <!--            <groupId>com.futurebytedance</groupId>-->
-        <!--            <artifactId>maven-java</artifactId>-->
-        <!--            <version>1.0-SNAPSHOT</version>-->
-        <!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>com.futurebytedance</groupId>-->
+<!--            <artifactId>maven-java</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
@@ -44,6 +44,20 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            <id>nexus-mine</id>-->
+<!--            <name>nexus-mine</name>-->
+<!--            <url>http://localhost:8081/repository/maven-snapshots/</url>-->
+<!--            <snapshots>-->
+<!--                <enabled>true</enabled>-->
+<!--            </snapshots>-->
+<!--            <releases>-->
+<!--                <enabled>true</enabled>-->
+<!--            </releases>-->
+<!--        </repository>-->
+<!--    </repositories>-->
 
     <build>
         <!-- 自定义打包名称 -->
