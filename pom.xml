@@ -12,6 +12,7 @@
         <module>maven-java</module>
         <module>maven-web</module>
         <module>maven-web-plugin</module>
+        <module>maven-web</module>
     </modules>
 
     <properties>
